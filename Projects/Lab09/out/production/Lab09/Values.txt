@@ -1,0 +1,6 @@
+Labs 	20
+Reading Quizzes 10
+REVEL 	15
+Midterm 20
+Project 15
+Final 	20
